@@ -1,5 +1,5 @@
 # Browsers-differences
-Compare browsers features: safari, ff, chrome
+Compare browsers features.
 
 ## FF vs Safari vs Chrome Diff
 
