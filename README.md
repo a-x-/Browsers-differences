@@ -8,4 +8,4 @@ Compare browsers features: safari, ff, chrome
 | ----- | ------- | ------ | ------ |
 | Мэнеджер паролей | Встроенный | Keychain | Встроенный |
 | Поддержка жестов | Минимальная | Отличная | Приемлимая |
-| Обзор всех фкладок | Panorama | Zoom out | Tabs Overview |
+| Обзор всех фкладок | Panorama | Zoom out | ??? |
