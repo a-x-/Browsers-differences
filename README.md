@@ -15,3 +15,6 @@ Compare browsers features.
 * Обзор всех вкладок \\ в Safari \\ жест pinch (щипок)
 * Обзор всех фкладок \\ в Firefox \\ хоткей `Cmd-Shift-E`
 * Копирование в редакторе в github \\ не работает для меня \\ в Firefox.
+
+## Alternatives
+* [fork](https://github.com/hjri/Browsers-differences)
